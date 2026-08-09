@@ -1,0 +1,10 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="vertical" android:padding="18dp" android:background="#F4F8FC" android:layout_width="match_parent" android:layout_height="match_parent">
+ <LinearLayout android:gravity="center_vertical" android:background="#0864AD" android:padding="12dp" android:layout_width="match_parent" android:layout_height="wrap_content">
+  <ImageView android:id="@+id/logo" android:src="@drawable/logo" android:scaleType="centerCrop" android:layout_width="52dp" android:layout_height="52dp"/>
+  <LinearLayout android:orientation="vertical" android:layout_marginStart="10dp" android:layout_width="0dp" android:layout_weight="1" android:layout_height="wrap_content">
+   <TextView android:id="@+id/title" android:text="Bahadur Khail Welfare Committee" android:textColor="#FFFFFF" android:textStyle="bold" android:textSize="17sp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+   <TextView android:text="Fi Sabeel Illah • امید • یکجہتی • خدمت" android:textColor="#EAF5FF" android:textSize="12sp" android:layout_width="wrap_content" android:layout_height="wrap_content"/>
+  </LinearLayout>
+ </LinearLayout>
+ <FrameLayout android:id="@+id/content" android:layout_width="match_parent" android:layout_height="0dp" android:layout_weight="1"/>
+</LinearLayout>

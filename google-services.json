@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "598027753805",
+    "project_id": "bahadurkhail-welfare-com-ff00a",
+    "storage_bucket": "bahadurkhail-welfare-com-ff00a.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598027753805:android:6c1617a1b0b24d83d2ff04",
+        "android_client_info": {
+          "package_name": "com.bahadurkhail.welfare"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA1cuN0sI6JKHNZOUO3I9daH6pNa2H_UoU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
